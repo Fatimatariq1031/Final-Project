@@ -20,7 +20,7 @@
             android:orientation="horizontal">
 
             <ImageView
-                android:id="@+id/imageView4"
+                android:id="@+id/medimage"
                 android:layout_width="223dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
